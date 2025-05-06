@@ -101,7 +101,7 @@ This project uses publicly modeled data based on restaurant information on Zomat
 
 ## 🙋 Contributors
 
-- Madan H  
+- Madan H H
 - H Devikrishna  
 - C R Deesha Malkar  
 - Arya Shiralikar  
